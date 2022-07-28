@@ -59,7 +59,7 @@ footer {
     padding: 30px;
     margin-top: 60px;
     width: 100%;
-    height: 240px;
+    height: 250px;
 }
 .social-icon{
     display: flex;
@@ -78,7 +78,7 @@ footer {
     border-radius: 50px;
     text-align: center;
     line-height: 50px;
-    margin: 10px;
+    margin: 5px;
 }
 
 
@@ -90,17 +90,7 @@ footer {
 .icon-arrow{
     position: relative;
     justify-content: end;
-    /* margin: 25px; */
 }
-
-
-
-
-
-
-
-
-
 
 
 /* Tablet view */
