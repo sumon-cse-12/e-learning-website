@@ -100,11 +100,15 @@ footer {
 }
 
 
-/* Tablet view */
+/* Mobile view */
 @media screen and (max-width: 510px) {
 
     .course-box{
         display: flex;
         flex-direction: column;
+        margin-top: 10px;
+    }
+    .tezt-box{
+        margin-top: 10px;
     }
 }
